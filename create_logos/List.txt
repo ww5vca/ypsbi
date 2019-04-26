@@ -1,0 +1,248 @@
+ABC
+ACH
+AD Plastik
+Adient
+Adler
+Albano Cozzuol
+Albar
+Android
+Anjiang
+Antolin
+APM
+Avtocomponent
+Azman Hamzah Plastik
+Beach
+Beinei
+Birla
+Boao
+Bocar
+Borgers
+BPLAS
+Bright AutoPlast
+Brose
+CAIP
+Calsonic Kansei
+CAMP
+Century
+Changhong
+Changhua
+Changxinheng
+Changyu
+China Tool
+CKD
+CREA
+Daehan
+Daichi
+DaiMay
+Dakkota
+Danyang Guotai
+Delloyd
+Delphi
+DNKY
+Dong Kwang
+Dongfang-js
+Dongguo
+Donghao
+Dongjun
+Dongkook
+Dongshin Industry
+DPO Plastik
+Dr. Schneider
+Draexlmaier
+Duck Yang
+Duraplast
+East-asia
+EcoPlastic
+Eissmann
+EPC
+Euro-APS
+Fangxin
+Faurecia
+Findlay
+Fischer
+FLEX-N-GATE
+Flextronics
+Fompak
+Fucheng
+Fuerda
+Fuji Seat
+Fuqiang
+Grammer
+GSK
+Guanda
+Haerbin Plastics
+Hayashi Telempu
+HBW-Gubesch
+Heartland
+Hella
+Hengxin
+HFI
+Hirosawa
+Hitachi
+Hitachi Chemical
+Hitachi Kasei
+Howa
+Huachang
+Huahong
+Hualian
+Huate
+Huazhong
+IAC
+IHL
+Ikuyo
+In-house
+Injeplastic
+Inoac
+Inteva
+Irvin
+ITW
+JCXY
+Jincheng
+Jingxin
+Jinsong
+Jinxing
+Jixing
+jl-darton
+JNMPT
+Joyson
+JPC
+JPTech
+Junda
+JY Solutec
+Kasai
+KDK
+Key Plastics
+KM&I
+Kojima Industry
+Kojima Mitchell
+KOODA.STN
+Koram
+Kostal
+Krishna Maruti
+L'Equipe
+Limin
+Linquan
+Lumax
+Maini
+Maofeng
+Marelli
+Mayco
+Mayur
+Mecalplast
+Megaplast
+Megatech
+Minda
+MingHsiang
+Mitchell Plastics
+Mitsuba-CSE
+Mobis
+Mold Masters
+Mollertech
+Moodeung
+Moriroku
+Motherson
+Motus
+MPC
+Mueller
+Mutual
+MVC
+NA Jeon
+Nanjo
+NBHX
+Nifco
+Nihon Plast
+Niles
+Nissen Chemitec
+None
+NVH
+NYX
+Olsa
+Others
+Permintex
+Pingwei
+Plakor
+PO
+PPAP
+Preh
+Prima
+RAK Antenna
+RDS
+Recticel
+Reydel
+Rochling
+Ruiyingxing
+Ruiyue
+Sakae Riken
+Sanhuan
+Sanjiang Hangtian Jianghe
+Sanko Gosei
+SAS
+Sejin
+Sekiso
+Seoyon
+SG Automotive
+Shenguang
+Shigeru
+Shinki
+Shuanghuan
+Shuanglin
+Shuangou
+Shuangying
+Simoldes
+SMP
+SNIC
+Suiryo
+Summit Polymers
+Sun Vacuum
+Sungchang
+Sunny Mould
+Supreme
+TACO
+Teck See
+Tenneco
+Thai Summit
+Tianxi
+to be Modified
+Toledo Tool and Die
+Tongda
+Tongyang
+Toray
+Toyoda Gosei
+Toyota Boshoku
+TRW
+TS-Tech
+Tuopu
+Unknown
+US Farathane
+Varroc
+VDL
+Venture
+Vlankas
+Vuteq
+Wanda
+Wanlong
+Wilbert Plastics
+Wuling Lianfa
+Xinchang
+Xinglian
+xinglong
+Xingtai
+Xinming Textile
+Xinquan
+xmlong
+Yazaki
+YFAI
+Yichang
+Yongcheng
+Yongsan
+Yuanchi
+Yueki
+Yuwan
+YXFS
+Zhejiang Mould
+Zhenghai
+Zhengyuan
+Zhichu
+Zhongli
+Zhongxin
+Multi
